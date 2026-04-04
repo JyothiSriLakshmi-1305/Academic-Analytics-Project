@@ -123,7 +123,7 @@ Dataset → Data Cleaning → Data Analysis → KPI Calculation → Dashboard �
 
 * **GitHub Repository:** https://github.com/JyothiSriLakshmi-1305/Academic-Analytics-Project
 * **Project Demo Video:** https://drive.google.com/drive/folders/1AQNeKQUc5CpR2cpuIiPd2hkBc6GknDrj?usp=sharing
-* **Excel Dashboard File:**https://1drv.ms/x/c/261d48fe47765c26/IQAgn6qPyGYDQLM0OsNFnZ8FAcKH-lxlVKdynMLrTT-4XDE?e=N8mUPV
+* **Excel Dashboard File:** https://1drv.ms/x/c/261d48fe47765c26/IQCk4g03duiFRLiiJnNJCravAbl05no6BP2i2UJkBZKTqA8?e=F9ABrJ
 ---
 
 ## Author
